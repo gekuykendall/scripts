@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Script to remotely update rpm based linux servers
+
